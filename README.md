@@ -1,0 +1,4 @@
+scalapet
+========
+
+Scala Pet Project
