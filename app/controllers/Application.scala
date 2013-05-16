@@ -8,5 +8,8 @@ object Application extends Controller {
   def index = Action {
     Ok(views.html.index("Menő."))
   }
-  
+
+  def pets = Action {
+    Ok(views.html.index("Pets"))
+  }
 }
